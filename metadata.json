@@ -1,0 +1,6 @@
+{
+  "name": "Textile Lab Pro",
+  "description": "Offline-first local Wi-Fi textile testing laboratory platform with Room SQLite, embedded Ktor REST/WebSocket server, RBAC security, sample tracking, 9 textile test modules, and report publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
